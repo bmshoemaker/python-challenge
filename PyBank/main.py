@@ -58,7 +58,7 @@ final_analysis = (
     f'Total: ${total_profits}\n'
     f'Average Change: ${format_average}\n'
     f'Greatest Increase in Profits: {max_month}  (${max_increase})\n'
-    f'Greatest Decrease in Profits: ${min_month} (${max_decrease})\n')
+    f'Greatest Decrease in Profits: {min_month} (${max_decrease})\n')
     
 print(final_analysis)
 
